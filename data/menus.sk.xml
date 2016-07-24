@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menus>
+	<group>
+		<name>Hlavná ponuka</name>
+		<class>menu-main</class>
+		<link>
+			<name>Domovská stránka</name>
+			<href>{$baseurl}</href>
+		</link>
+		<link>
+			<name>Snímky obrazovky</name>
+			<href>/screenshots/</href>
+		</link>
+		<link>
+			<name>Fóra</name>
+			<href>http://forums.scummvm.org/</href>
+		</link>
+		<link>
+			<name>Súbory na prevzatie</name>
+			<href>/downloads/</href>
+		</link>
+		<link>
+			<name>Hry</name>
+			<href>/games/</href>
+		</link>
+		<link>
+			<name>Blogy ScummVM</name>
+			<href>http://planet.scummvm.org</href>
+		</link>
+	</group>
+	<group>
+		<name>Dokumentácia</name>
+		<class>menu-docs</class>
+		<link>
+			<name>Často kladené otázky</name>
+			<href>/faq/</href>
+		</link>
+		<link>
+			<name>Dokumentácia</name>
+			<href>/documentation/</href>
+		</link>
+		<link>
+			<name>Kompatibilita</name>
+			<href>/compatibility/</href>
+		</link>
+		<link>
+			<name>Wiki</name>
+			<href>http://wiki.scummvm.org/</href>
+		</link>
+		<link>
+			<name>Spolupracovníci</name>
+			<href>/credits/</href>
+		</link>
+	</group>
+	<group>
+		<name>Vývoj</name>
+		<class>menu-sf</class>
+		<link>
+			<name>Stránka projektu na SF.net</name>
+			<href>https://sourceforge.net/projects/scummvm/</href>
+		</link>
+		<link>
+			<name>Hlásenia chýb</name>
+			<href>http://bugs.scummvm.org/</href>
+		</link>
+		<link>
+			<name>Žiadosti nových funkcií</name>
+			<href>https://sourceforge.net/p/scummvm/feature-requests/</href>
+		</link>
+		<link>
+			<name>Prispievanie do kódu</name>
+			<href>https://github.com/scummvm/scummvm/pulls</href>
+		</link>
+		<link>
+			<name>Denné vytvárané verzie</name>
+			<href>/downloads/#daily</href>
+		</link>
+		<link>
+			<name>Prehliadač zdrojového kódu</name>
+			<href>https://github.com/scummvm/scummvm</href>
+		</link>
+		<link>
+			<name>Buildbot</name>
+			<href>http://buildbot.scummvm.org/</href>
+		</link>
+	</group>
+	<group>
+		<name>Rôzne</name>
+		<class>menu-misc</class>
+		<link>
+			<name>Podprojekty</name>
+			<href>/subprojects/</href>
+		</link>
+		<link>
+			<name>Demá</name>
+			<href>/demos/</href>
+		</link>
+		<link>
+			<name>Pokrytie v tlači</name>
+			<href>/press/</href>
+		</link>
+		<link>
+			<name>Kontakt</name>
+			<href>/contact/</href>
+		</link>
+		<link>
+			<name>Odkazy</name>
+			<href>/links/</href>
+		</link>
+	</group>
+</menus>
